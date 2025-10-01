@@ -1,19 +1,19 @@
-# Tienda Zapatillas - Base de Datos
+# 👟 Tienda Zapatillas - Base de Datos 🛍️
 
-Este proyecto contiene la base de datos para una tienda de zapatillas. Aquí se incluyen los scripts y archivos necesarios para crear y manejar la base de datos `tienda_zapatillas`.
+Este proyecto contiene la base de datos para una tienda de zapatillas. Aquí están los scripts y archivos necesarios para crear y manejar la base de datos `tienda_zapatillas`. ⚙️💾
 
-## Contenido
+## 📦 Contenido
 
-- Scripts para crear tablas y relaciones.
-- Consultas básicas para manipular los datos.
-- Instrucciones para importar la base de datos.
+- 🗂️ Scripts para crear tablas y relaciones.
+- 🔍 Consultas básicas para manipular los datos.
+- 📥 Instrucciones para importar la base de datos.
 
-## Tecnologías
+## 🛠️ Tecnologías
 
-- MySQL / MariaDB (o el gestor de bases de datos que uses)
-- SQL
+- 🐬 MySQL / MariaDB (o el gestor que uses)
+- 💻 SQL
 
-## Instalación
+## 🚀 Instalación
 
 1. Clona este repositorio:
 
